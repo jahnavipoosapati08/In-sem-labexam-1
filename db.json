@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 7633,
+      "name": "full stack development",
+      "instructor": "Dineshnath Gopinath"
+    },
+    {
+      "id": 8344,
+      "name": "cns",
+      "instructor": "sreevardan"
+    },
+    {
+      "id": 9822,
+      "name": "embedded systems",
+      "instructor": "Prabhakaran"
+    }
+  ]
+}
